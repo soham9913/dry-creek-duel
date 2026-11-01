@@ -1,0 +1,8 @@
+2026-10-24 23:03:33,975 [INFO] Dry Creek Duel v1.0.0 by Soham Pawar starting (platform: win32)
+2026-10-24 23:03:33,976 [INFO] assets at C:\Users\sp197\OneDrive\Documents\games\dry-creek-duel_1\dry-creek-duel: display font found, 10 sound files
+2026-10-24 23:03:34,196 [INFO] display mode set successfully
+2026-10-24 23:03:34,252 [INFO] Loading assets
+2026-10-24 23:03:37,352 [INFO] Entering Game.run()
+2026-10-24 23:03:37,450 [INFO] First frame rendered successfully at ticks=3474
+2026-10-24 23:07:47,276 [INFO] Quit chosen from a menu
+2026-10-24 23:07:47,285 [INFO] Game.run() ended
